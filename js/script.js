@@ -21,9 +21,9 @@ $(document).ready(function(){
 		function(){ $(this).animate({ top: 0 }, 'fast'); }
 	);
 
- 
 
-	 
+
+
 
 
 });
